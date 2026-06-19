@@ -12,7 +12,7 @@
 ## Key Findings
 - Register fails under concurrent load — Azure DB write limit
 - Voice Transcribe needs async processing
-- Core APIs stable under all test types ✅
+- Core APIs stable under all test types 
 
 ## How to Run
 1. Open Apache JMeter 5.6.3
